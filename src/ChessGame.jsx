@@ -465,7 +465,7 @@ const ChessGame = () => {
   const containerStyle = {
     maxWidth: "1200px",
     margin: "0 auto",
-    padding: "20px",
+    padding: "20px 10px",
     display: "flex",
     gap: "10px",
     flexDirection: window.innerWidth < 768 ? "column" : "row",
